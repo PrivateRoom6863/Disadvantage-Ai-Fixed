@@ -15,7 +15,6 @@
 		"Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns", "Allied City-States will occasionally gift Great People",
 		"[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States", "[+50]% [Gold] from City-States", "[+50]% [Science] from City-States",
 	        "May choose [1] additional [Founder] beliefs when [founding] a religion", "Damage is ignored when determining unit Strength"]
-		"requiredTech": "Agriculture"
 	},
 	{
 		"name": "Hacker",
@@ -25,7 +24,6 @@
 		"uniques": ["Destroyed when the city is captured", "Limited to [1] per Civilization",
 		    "Science gained from research agreements [-99]%",
 		    "[-25]% Production towards any buildings that already exist in the Capital"]
-		"requiredTech": "AI Demise"
 	},
 	{
 		"name": "God",
@@ -45,6 +43,5 @@
 		    "[-10]% [Production] [in this city]", 
 		    "[-20]% [Gold] [in this city] <starting from the [Classical era]>",
 		    "[-20]% [Gold] [in this city] <starting from the [Medieval era]>"]
-		"requiredTech": "AI Demise"
 	},
 ]
