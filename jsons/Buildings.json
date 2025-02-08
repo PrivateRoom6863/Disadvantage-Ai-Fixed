@@ -36,14 +36,14 @@
 		"uniques": ["Automatically built in all cities where it is buildable",
 			"Only available <for [AI player] Civilizations>",
 			"Destroyed when the city is captured",
-		    "[-50]% Production when constructing [All] wonders [in this city]",
+		    "[-50]% Production when constructing [All] wonders [in all cities]",
                     "[-50]% Yield from every [Natural Wonder]",
-                    "[-60]% [Culture] [in this city]", 
-		    "[-60]% [Science] [in this city]",
-	            "[-60]% [Production] [in this city] <when at war>",
-                    "[-20]% [Faith] [in this city]", 
-	            "[-10]% [Food] [in this city]", 
-		    "[-10]% [Production] [in this city]", 
-		    "[-60]% [Gold] [in this city]"]
+                    "[-60]% [Culture] [in all cities]", 
+		    "[-60]% [Science] [in all cities]",
+	            "[-60]% [Production] [in all cities] <when at war>",
+                    "[-20]% [Faith] [in all cities]", 
+	            "[-20]% [Food] [in all cities]", 
+		    "[-10]% [Production] [in all cities]", 
+		    "[-40]% [Gold] [in all cities]"]
 	},
 ]
